@@ -4,14 +4,14 @@ import javax.swing.JOptionPane;
 
 public class spirala {
 	public static void main(String[] args) {
-		int a=Integer.parseInt(JOptionPane.showInputDialog("stupci"));
+	/*	int a=Integer.parseInt(JOptionPane.showInputDialog("stupci"));
 		int b=Integer.parseInt(JOptionPane.showInputDialog("redovi"));
 		int r=a+b;
 		int niz[] = {1,2,3,4,5};
 		for(int i=r-1; i-1<r && i<=a*b && i>=a && i>0; --i) {
 			System.out.println(i);
 
-		}for(int j=)
+		}//for(int j=)
 			/*System.out.println(i);for(int j=(a-1); j<r && j<=a*b && j>0; j=(2*r)+2) {
 			//broj10
 			System.out.println(r);
@@ -22,7 +22,7 @@ public class spirala {
 			//broj 19
 			System.out.println((2*r)-1);
 			//broj4
-			System.out.println(j);*/
+			System.out.println(j);
 		}for(int z=(a-2); z<=(a*a) && z<=a*b &&  z>0 && z==(a-2); z++) {
 			//broj11
 			System.out.println(r+1);
@@ -56,6 +56,6 @@ public class spirala {
 			System.out.println((2*a)+a+1);
 			//broj1
 			System.out.println(m);
-		}
+		}*/
 	}
 }
