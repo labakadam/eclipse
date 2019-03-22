@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 public class Zadatak1 {
 	
-	//program uÄitava brojeve sve dok se ne pojavi rijeÄ DOSTA
+	//program uèitava brojeve sve dok se ne pojavi rijeè DOSTA
 	//program ispisuje zbroj svih primljenih brojeva
 	
 	public static void main(String[] args) {
